@@ -1,8 +1,9 @@
 # chatRoom-webSocket
 
-Simple project to show websocket realtime functionalty.
+Simple project to show websocket realtime functionality.
 
-<video width="640" height="360" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+https://github.com/KH-MERN-STACK/chatRoom-webSocket/assets/66100565/1e4cbbf0-0d8e-4555-804b-5c50fc401f72
+
